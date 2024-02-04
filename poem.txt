@@ -3,6 +3,7 @@ Rainbow poem and unicorn
 Blue
 Yellow
 Red
+indigo
 unicorn
 Purple
 Green
